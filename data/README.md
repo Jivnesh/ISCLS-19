@@ -12,7 +12,8 @@ Fast_text_features | This folder contains fasttext embedding of classification d
 
 ## Sample data
 There are four classes. They are represented by integer mapping: Avyaibhav(0), Bahuvrihi(1), Dvandva(2), Tatpurush(3)
- Index | Word1 | Word2 | Class
+
+Index | Word1 | Word2 | Class
 ---|--- |---|---
 1 | xqDa | vikramaH | 1
 2 | prawi | icCakaH | 0
