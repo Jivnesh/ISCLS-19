@@ -5,10 +5,11 @@ We have used same transliteration scheme as that of [Hellwig's](https://github.c
 ## Corpora
 file name | discription
 ---|---
- SanskritCorpus.txt   | This file in combined from DCS,wiki,vedabase. To learn word embeddings.
  train/test.csv  | This is the dataset for compound type classification task.
 compound_dic.pickle  | This file is dictionary mapping of compound classification dataset to get word embedding vectors.
 Fast_text_features | This folder contains fasttext embedding of classification dataset.
+
+These features can be downloaded from [here](https://drive.google.com/file/d/1N-xI7UZImp_C8eSktQ94dagsUQpDZdrd/view?usp=sharing)
 
 ## Sample data
 There are four classes. They are represented by integer mapping: Avyaibhav(0), Bahuvrihi(1), Dvandva(2), Tatpurush(3)

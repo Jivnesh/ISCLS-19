@@ -11,7 +11,7 @@ The following software must be installed on your machine.
 
 ## File organization
 * code  : To get results reported in paper, simply run this python file.
-* data  : contains all data required to run this code
+* data  : contains data required to run this code
 * model : generated model will be stored to this folder
 
 ## To run the code:
@@ -26,10 +26,11 @@ We have used same transliteration scheme as that of [Hellwig's](https://github.c
 ## Corpora
 file name | discription
 ---|---
- SanskritCorpus.txt   | This file in combined from DCS,wiki,vedabase. To learn word embeddings.
- train/test.csv  | This is the dataset for compound type classification task.
+train/test.csv  | This is the dataset for compound type classification task.
 compound_dic.pickle  | This file is dictionary mapping of compound classification dataset to get word embedding vectors.
 Fast_text_features | This folder contains fasttext embedding of classification dataset.
+
+These features can be downloaded from [here](https://drive.google.com/file/d/1N-xI7UZImp_C8eSktQ94dagsUQpDZdrd/view?usp=sharing)
 
 ## Sample data
 There are four classes. They are represented by integer mapping: Avyaibhav(0), Bahuvrihi(1), Dvandva(2), Tatpurush(3)
