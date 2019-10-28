@@ -1,6 +1,6 @@
 <!--- # Project Title --->
 # Deep Learning Based Approach for Compound Type Identification in Sanskrit
-Code for the paper titled "Revisiting the Role of Feature Engineering for Compound Type Identification in Sanskrit"
+Code for the paper titled ["Revisiting the Role of Feature Engineering for Compound Type Identification in Sanskrit"](https://www.aclweb.org/anthology/W19-7503/)
 
 ## Requirements:
 The following software must be installed on your machine.
