@@ -12,7 +12,7 @@ from sklearn.metrics import classification_report,confusion_matrix
 from sklearn.model_selection import train_test_split
 path = os.chdir('..')
 # Generated models will be store in this path
-model_dir = tempfile.mkdtemp(dir='./models')
+model_dir = tempfile.mkdtemp(dir='./')
 
 # This function converts compound data into corrosponding FastText features using gensim library.
 def BuildFasttext(size,window,min_n,max_n,epochs):
