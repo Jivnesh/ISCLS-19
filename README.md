@@ -8,6 +8,8 @@ The following software must be installed on your machine.
 * Tensorflow 1.13.1
 * numpy 
 * gensim
+* pandas
+* scikit-learn
 
 ## File organization
 * code  : To get results reported in paper, simply run this python file.
