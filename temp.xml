@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE forms SYSTEM "SL_morph.dtd">
+<!-- Header
+<meta name="title" content="Sanskrit Morphology"">
+<meta name="author" content="Gérard Huet"><meta name="date" content="6 Mai 2020">
+<meta name="copyright" content="© Gérard Huet 1994-2020">
+<meta name="keywords" content="sanskrit; morphology"> -->
+<forms>
+<f form="aMSakam"><na><acc/><sg/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakayos"><na><loc/><du/><mas/></na><na><gen/><du/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakas"><na><nom/><sg/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakasya"><na><gen/><sg/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakAt"><na><abl/><sg/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakAn"><na><acc/><pl/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakAnAm"><na><gen/><pl/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakAByAm"><na><abl/><du/><mas/></na><na><dat/><du/><mas/></na><na><ins/><du/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakAya"><na><dat/><sg/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakAs"><na><nom/><pl/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSake"><na><loc/><sg/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakena"><na><ins/><sg/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakeByas"><na><abl/><pl/><mas/></na><na><dat/><pl/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakezu"><na><loc/><pl/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakEs"><na><ins/><pl/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSakO"><na><acc/><du/><mas/></na><na><nom/><du/><mas/></na><s stem="aMSaka#2"/></f>
+<f form="aMSam"><na><acc/><sg/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSayos"><na><loc/><du/><mas/></na><na><gen/><du/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSavas"><na><nom/><pl/><mas/></na><s stem="aMSu"/></f>
+<f form="aMSave"><na><dat/><sg/><mas/></na><s stem="aMSu"/></f>
+<f form="aMSas"><na><nom/><sg/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSasya"><na><gen/><sg/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSAt"><na><abl/><sg/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSAn"><na><acc/><pl/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSAnAm"><na><gen/><pl/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSAByAm"><na><abl/><du/><mas/></na><na><dat/><du/><mas/></na><na><ins/><du/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSAya"><na><dat/><sg/><mas/></na><s stem="aMSa"/></f>
+<f form="aMSAs"><na><nom/><pl/><mas/></na><s stem="aMSa"/></f>
+</forms>
