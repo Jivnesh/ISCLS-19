@@ -1,7 +1,7 @@
 <!--- # Project Title --->
 # Deep Learning Based Approach for Compound Type Identification in Sanskrit
 Code for the paper titled ["Revisiting the Role of Feature Engineering for Compound Type Identification in Sanskrit"](https://www.aclweb.org/anthology/W19-7503/) <br>
-This code is adopted and modified from [this](https://ruder.io/text-classification-tensorflow-estimators/) tutorial by Ruder.
+This code is adapted and modified from [this](https://ruder.io/text-classification-tensorflow-estimators/) tutorial by Ruder.
 
 
 ## Requirements:
