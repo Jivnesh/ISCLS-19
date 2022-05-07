@@ -34,7 +34,7 @@ train/test.csv  | This is the dataset for compound type classification task.
 compound_dic.pickle  | This file is dictionary mapping of compound classification dataset to get word embedding vectors.
 Fast_text_features | This folder contains fasttext embedding of classification dataset.
 
-These features can be downloaded from [here](https://drive.google.com/file/d/1N-xI7UZImp_C8eSktQ94dagsUQpDZdrd/view?usp=sharing)
+These features can be downloaded from [here](https://iitk-my.sharepoint.com/:f:/g/personal/jivnesh_iitk_ac_in/EqsSpWwgNSFJgfyJFT7XS6MBJY4B-HF4ChI92sp_lKjHGw?e=dsb7ef)
 
 Make sure these features are placed in path : data/fast_text_features
 
